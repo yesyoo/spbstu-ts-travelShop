@@ -1,0 +1,1 @@
+{"version":3,"file":"tours.js","sourceRoot":"","sources":["../../app/templates/tours.ts"],"names":[],"mappings":"AAIA,MAAM,UAAU,eAAe,CAAC,GAAW,EAAE,CAAS;IAClD,MAAM,IAAI,GAAW;oCACW,CAAC;iBACpB,GAAG,CAAC,IAAI;0DACiC,GAAG,CAAC,GAAG;6CACpB,GAAG,CAAC,WAAW;wBACpC,GAAG,CAAC,KAAK;;KAE5B,CAAA;IACF,OAAO,IAAI,CAAC;AACf,CAAC"}

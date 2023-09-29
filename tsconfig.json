@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "lib": ["es2020", "dom"],
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "outDir": "./tsDist/",
+    "experimentalDecorators": true,
+    "baseUrl": "app",
+    "suppressImplicitAnyIndexErrors": true,
+    "importHelpers": true,
+    "types": ["webpack-env"],
+
+    "paths": {
+      "@services/*": [
+        "services/*"
+      ],
+      "@rest/*": [
+        "services/rest/*"
+      ],
+      "@assets/*": [
+        "assets/*"
+      ],
+      "@myCss": [
+        "assets/styles/main.scss"
+      ]
+    }
+  },
+
+  "include": [
+    "./**/*"
+  ],
+
+  "exclude": [
+    "node_modules"
+  ],
+
+  "compileOnSave": true,
+  // "ignoreDeprecations": "5.0"
+
+   
+
+  
+
+
+
+}
+
+
